@@ -1,0 +1,16 @@
+INDEX VERSION 1.126+D:\Android\dev\Coursera_Week 7_DB_ContentProvider_Services\.metadata\.plugins\org.eclipse.jdt.core
+323777773.index
+1454603209.index
+3702974622.index
+1851668128.index
+2544180369.index
+2110029155.index
+1755616227.index
+3872666955.index
+1561698988.index
+1733248379.index
+872216954.index
+3759593879.index
+4030816216.index
+1031164740.index
+2945063276.index

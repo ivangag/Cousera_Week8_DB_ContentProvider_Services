@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/ContentProviderCustom" />
+            <option value="$PROJECT_DIR$/ContentProviderCustomUser" />
+            <option value="$PROJECT_DIR$/ContentProviderExample" />
+            <option value="$PROJECT_DIR$/ContentProviderWithCursorLoader" />
+            <option value="$PROJECT_DIR$/ContentProviderWithInsertionDeletion" />
+            <option value="$PROJECT_DIR$/ContentProviderWithSimpleCursorAdapter" />
+            <option value="$PROJECT_DIR$/DataManagementFileExternalMemory" />
+            <option value="$PROJECT_DIR$/DataManagementFileInternalMemory" />
+            <option value="$PROJECT_DIR$/DataManagementPreferenceActivity" />
+            <option value="$PROJECT_DIR$/DataManagementSQL" />
+            <option value="$PROJECT_DIR$/DataManagementSharedPreference" />
+            <option value="$PROJECT_DIR$/LoggingServiceClient" />
+            <option value="$PROJECT_DIR$/LoggingServiceWithMessenger" />
+            <option value="$PROJECT_DIR$/LoggingServiceWithMessengerClient" />
+            <option value="$PROJECT_DIR$/MusicPlayingServiceExample" />
+            <option value="$PROJECT_DIR$/ServiceWithIPCExampleClient" />
+            <option value="$PROJECT_DIR$/ServiceWithIPCExampleService" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
+
