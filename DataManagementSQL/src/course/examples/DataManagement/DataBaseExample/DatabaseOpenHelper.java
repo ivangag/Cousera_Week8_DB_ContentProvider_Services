@@ -3,8 +3,11 @@ package course.examples.DataManagement.DataBaseExample;
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
+import android.util.Log;
 
 public class DatabaseOpenHelper extends SQLiteOpenHelper {
+
+
 	
 	final static String TABLE_NAME = "artists";
 	final static String ARTIST_NAME = "name";
@@ -34,6 +37,7 @@ public class DatabaseOpenHelper extends SQLiteOpenHelper {
 	@Override
 	public void onUpgrade(SQLiteDatabase db, int oldVersion, int newVersion) {
 		// N/A
+
 	}
 
 	void deleteDatabase() {

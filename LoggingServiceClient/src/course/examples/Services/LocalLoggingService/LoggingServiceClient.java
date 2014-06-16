@@ -28,7 +28,6 @@ public class LoggingServiceClient extends Activity {
 
 				// Start the Service
 				startService(startServiceIntent);
-
 			}
 		});
 	}
